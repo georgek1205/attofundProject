@@ -1,4 +1,4 @@
 spring:
   data:
     mongodb:
-      uri: //hidden for encryption
+      //hidden for encryption uri: 
